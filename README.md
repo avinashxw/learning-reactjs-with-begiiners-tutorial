@@ -1,4 +1,4 @@
-# learning-reactjs-with-begiiners-tutorial
+# learning-reactjs-with-beginers-tutorial
 
 # Video:
 Link: https://www.youtube.com/watch?v=GiyL4KFRNBA&t=4712s
