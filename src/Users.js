@@ -1,11 +1,11 @@
 import './App.css';
 
-function App() {
+function Users() {
   return (
     <div className="App">
-      <p>Hello World!</p>
+      <p>Hello Users!</p>
     </div>
   );
 }
 
-export default App;
+export default Users;
